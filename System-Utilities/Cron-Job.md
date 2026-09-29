@@ -23,7 +23,7 @@ Example:
 ```
 * * * * * /path/to/script.sh
 ```
-Cron will ceck every minute to see if it needs to run a cron job, the table below is the format of how times are specified:
+Cron will check every minute to see if it needs to run a cron job, the table below is the format of how times are specified:
 ```
 |------------Minute (Valid Values: 0-59)
 | |----------Hour (Valid Values: 0-23, 0=Midnight)
